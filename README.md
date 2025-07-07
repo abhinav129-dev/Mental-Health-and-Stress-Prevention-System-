@@ -29,7 +29,7 @@ Preventive Intervention Matching
     ↓
 Progress Monitoring (Predicted Labels + CSV Output)
 ``` 
-4. 🧩 Model Structure
+##4. 🧩 Model Structure
 Preprocessing: Handles missing values, encodes categorical data, scales features.
 
 Stress Assessment: Random Forest Classifier predicts stress level.
@@ -40,7 +40,7 @@ Intervention Matching: Rule-based recommendations generated from predictions.
 
 Monitoring: Outputs predictions and advice in a structured .csv file.
 
-5. 📊 Dataset Used
+##5. 📊 Dataset Used
 File Name: Mental Health Dataset.csv
 
 Features Include:
